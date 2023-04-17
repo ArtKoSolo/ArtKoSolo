@@ -1,7 +1,7 @@
 <h1>Artem Kondratov</h1>
 
   
-  <h3>Manual QA Engineer|AQA Engineer</h3>
+  <h3>Manual|AQA Engineer</h3>
     
   <h3>Technical Skills:</h3>
     <p>● Strong theoretical knowledge of software testing;</p>
