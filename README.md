@@ -10,15 +10,15 @@
     <p>● Test Design knowledge (Test Cases, Checklists);<p>
     <p>● Experience with Jira Bug Tracking System (Bug reporting, writing test
     documentation);<p>
-    ● Agile, Scrum, Kanban methodologies knowledge;
-    ● Hands on mobile testing
-    ● Experience with REST API testing (Swagger, Postman);
-    ● Knowledge of HTTP/HTTPS protocols and methods;
-    ● Basic knowledge of HTML/CSS;
-    ● Git/GitHub;
-    ● Experience with JMETER;
-    ● Basic knowledge and understanding of SQL;
-    ● Basic understanding of Java and AQA;
+    <p>● Agile, Scrum, Kanban methodologies knowledge;<p>
+    <p>● Hands on mobile testing;<p>
+    <p>● Experience with REST API testing (Swagger, Postman);<p>
+    <p>● Knowledge of HTTP/HTTPS protocols and methods;<p>
+    <p>● Basic knowledge of HTML/CSS;<p>
+    <p>● Git/GitHub;<p>
+    <p>● Experience with JMETER;<p>
+    <p>● Basic knowledge and understanding of SQL;<p>
+    <p>● Basic understanding of Java and AQA;<p>
     
   
     
