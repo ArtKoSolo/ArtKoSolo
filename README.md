@@ -18,7 +18,7 @@
     <p>● Git/GitHub;</p>
     <p>● Experience with JMETER;</p>
     <p>● Basic knowledge and understanding of SQL;</p>
-    <p><h2>● Basic understanding of Java and AQA;</h2></p>
+    <p>● Basic understanding of Java and AQA;</p>
     
   
     
