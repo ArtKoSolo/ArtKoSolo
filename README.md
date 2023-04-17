@@ -4,7 +4,7 @@
   <h3>Manual QA Engineer|AQA Engineer<h3>
     
   <h3>Technical Skills:<h3>
-    <h2><p>● Strong theoretical knowledge of software testing;<p>
+    <p>● Strong theoretical knowledge of software testing;<p>
     <p>● Strong understanding of SDLC & STLC;<p>
     <p>● Strong knowledge of client-server architecture;<p>
     <p>● Test Design knowledge (Test Cases, Checklists);<p>
@@ -18,7 +18,7 @@
     <p>● Git/GitHub;<p>
     <p>● Experience with JMETER;<p>
     <p>● Basic knowledge and understanding of SQL;<p>
-    <p>● Basic understanding of Java and AQA;<p><h2>
+    <p><h2>● Basic understanding of Java and AQA;<h2><p>
     
   
     
